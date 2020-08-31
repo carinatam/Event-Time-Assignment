@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1544465553 source:g:\documents\c++\exercise 10\exercise_10\main.cpp
+	<iostream>
+	<string>
+	"header.h"
+
+1544463368 g:\documents\c++\exercise 10\exercise_10\header.h
+	<iostream>
+	<string>
+
+1544552769 source:g:\documents\c++\exercise 10\exercise_10\function.cpp
+	<iostream>
+	<string>
+	"header.h"
+
+1574910247 source:c:\users\carin\documents\high school comp sci\homework\grade 12\exercise_10\function.cpp
+	<iostream>
+	<string>
+	"header.h"
+
+1574910247 c:\users\carin\documents\high school comp sci\homework\grade 12\exercise_10\header.h
+	<iostream>
+	<string>
+
+1574910247 source:c:\users\carin\documents\high school comp sci\homework\grade 12\exercise_10\main.cpp
+	<iostream>
+	<string>
+	"header.h"
+
